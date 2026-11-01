@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Zamówienie pizzy</string>
+
+    <string-array name="pizza">
+        <item>-- wybierz pizzę --</item>
+        <item>Margherita</item>
+        <item>Pepperoni</item>
+        <item>Hawajska</item>
+        <item>Capricciosa</item>
+    </string-array>
+</resources>
